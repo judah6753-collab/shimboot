@@ -1,4 +1,4 @@
-name: build-image
+name: run build-image
 run-name: Build the shimboot disk image for all boards
 on: [push]
 
